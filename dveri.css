@@ -1,0 +1,154 @@
+.copyright {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: x-small;
+}
+.copyright_bold {
+	/*font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: small;*/
+	font-weight: bolder;
+}
+.menu {
+	font-size: small;
+	font-style: normal;
+	font-weight: bolder;
+}
+.menu1 {
+    padding: 6px 0px 40px 0px;
+    
+}
+
+
+.menuwhite {
+	font-size: small;
+	font-style: normal;
+	font-weight: bolder;
+	/*color: #FFFFFF;*/
+}
+
+body {
+	margin: 0 auto !important;
+	max-width: 1280px;
+	font: 13px/18px Verdana, Arial, sans-serif;
+	color: #555555;
+	background: #FFFAED;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: normal;
+	box-shadow: 0 15px 10px -15px rgba(0, 0, 0, 0.300), 0 0 10px rgba(0, 0, 0, 0.102);
+}
+
+/*h1, h2, h3, h4, h5, h6 {
+    margin: 10px;
+    line-height: 1;
+}*/
+
+/*
+h1 {
+	font-size: 22px;
+	letter-spacing: 0px;
+	padding: 0 0 65px 0;
+	color: #565656;
+}
+
+h2 {
+	font-size: 22px;
+	letter-spacing: -1px;
+	margin-bottom: 10px;
+	
+}
+*/
+
+h3 {
+    font-size:18px;
+    margin-bottom: 10px;
+
+	
+}
+.sale {
+	margin: 0px 10px 20px 0px;
+	border: 2px solid #ff7400;
+	border-radius: 3px;
+	text-align: center;
+	
+	height: 48px;
+	float: right;
+	width: 488px;
+	background: #ffaf4b;
+	background: -moz-linear-gradient(top, #ffaf4b 0%, #ff920a 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffaf4b), color-stop(100%,#ff920a));
+	background: -webkit-linear-gradient(top, #ffaf4b 0%,#ff920a 100%);
+	background: -o-linear-gradient(top, #ffaf4b 0%,#ff920a 100%);
+	background: -ms-linear-gradient(top, #ffaf4b 0%,#ff920a 100%);
+	background: linear-gradient(to bottom, #ffaf4b 0%,#ff920a 100%);
+}
+
+.h3sale {
+	color:#FFF;
+	line-height: 2;
+	margin: 0;
+	font-size: 24px;
+	text-shadow: 1px 1px 0px #FF7400;
+}
+
+/*h4 { font-size: 14px; }*/
+.left_block {
+	padding-left: 20px;
+}
+.ppp {
+	font-size: large;
+}
+.option span {
+	color: #FF7400;
+	float: right;
+	font-size: 20px;
+	text-shadow: 0px 1px 1px #747474;
+}
+.option1 h4 {
+	color: #FF7400;
+	font-size: 20px;
+	text-shadow: 0px 1px 1px #747474;
+}
+.option .price {
+	color: #FF7400;
+	float: right;
+	font-size: 16px;
+	text-shadow: 0px 1px 1px #747474;
+	font-weight: 700;
+}
+table {
+    border-collapse: collapse;
+	background: white;
+}
+
+/*
+a {
+    color: #0D44A0;
+    outline: none;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: red !important;
+    text-decoration: underline;
+}
+
+a:visited { color: #0D44A0; }
+
+a:visited:hover { color: #CC0000; }
+*/
+
+.conteiner {
+/*	border: 1px solid #888;*/
+	width: 100%;
+}
+.top_space {
+	margin-top: 10px;
+}
+.service {
+	font-size: 18px;
+	text-align: center;
+	margin-top: 40px;
+}
+

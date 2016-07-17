@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: kiv.html
+User-Agent: Googlebot
+Disallow: kiv.html
+User-Agent: StackRambler
+Disallow: kiv.html
+User-agent: Yandex *
+Disallow: kiv.html
+User-Agent: Mail.Ru
+Disallow: kiv.html
+User-Agent: Yandex/1.01.001 (compatible; Win16; I)
+
+User-Agent: Yandex/1.01.001 (compatible; Win16; H)
+
+User-Agent: Yandex/1.01.001 (compatible; Win16; P)
+
+User-Agent: Yandex/1.01.001 (compatible; Win16; M)
+
+User-Agent: Yandex/1.03.003 (compatible; Win16; D)
+
+User-Agent: YaDirectBot
+
+User-Agent: StackRambler
+

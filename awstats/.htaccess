@@ -1,0 +1,4 @@
+
+RewriteEngine off
+Options +Indexes +ExecCGI
+DirectoryIndex update.php

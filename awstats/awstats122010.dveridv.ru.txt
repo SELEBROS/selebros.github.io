@@ -1,0 +1,504 @@
+AWSTATS DATA FILE 6.6 (build 1.889)
+# If you remove this file, all statistics for date 201012 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2541                
+POS_VISITOR 10060               
+POS_DAY 14766               
+POS_DOMAIN 3256                
+POS_LOGIN 3553                
+POS_ROBOT 3745                
+POS_WORMS 4084                
+POS_EMAILSENDER 4215                
+POS_EMAILRECEIVER 4358                
+POS_SESSION 14951               
+POS_SIDER 15151               
+POS_FILETYPES 4493                
+POS_OS 4670                
+POS_BROWSER 4763                
+POS_SCREENSIZE 4960                
+POS_UNKNOWNREFERER 5034                
+POS_UNKNOWNREFERERBROWSER 5307                
+POS_ORIGIN 5406                
+POS_SEREFERRALS 5544                
+POS_PAGEREFS 5712                
+POS_SEARCHWORDS 6004                
+POS_KEYWORDS 8216                
+POS_MISC 2204                
+POS_ERRORS 9611                
+POS_CLUSTER 3409                
+POS_SIDER_404 9721                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20110101005410 80 19424 43406463732
+FirstTime 20101227162139
+LastTime 20101231113655
+LastUpdate 20110101030115 80 0 79 0 0
+TotalVisits 46                  
+TotalUnique 42                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 167                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 10 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 26 213825 6 6 52350
+1 2 4 427793 2 2 22904
+2 5 107 1306141 13 14 286341
+3 0 0 0 1 3 61500
+4 11 156 1579440 2 10 1740768
+5 8 139 2482064 2 5 59203
+6 4 53 1053624 3 4 67263
+7 3 42 0 3 4 30478
+8 2 92 591811 4 6 96007
+9 10 185 1893816 4 9 241925
+10 12 171 2050187 0 0 0
+11 5 101 702723 7 9 161060
+12 1 46 589714 0 0 0
+13 8 145 2211470 10 13 175300
+14 7 151 1906110 2 3 55733
+15 6 75 652631 2 2 35912
+16 11 203 2838426 6 8 109908
+17 1 33 486218 2 6 195747
+18 2 50 961311 0 0 0
+19 1 46 594697 3 10 81822
+20 0 0 0 1 20 100236
+21 1 33 494398 6 6 58353
+22 0 0 0 8 8 123583
+23 0 0 0 7 7 102060
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+ru 67 1159 16588386
+unknown 28 614 5478713
+ua 4 58 730180
+us 2 26 213825
+de 1 1 25295
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 1
+-_- 102 1858 23036399 20101231113655
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+yandex 69 895504 20101231163342 16
+googlebot 44 531869 20101231215215 3
+crawl 11 278213 20101231025855 1
+\wbot[\/\-] 9 135246 20101231140443 5
+slurp 5 85194 20101230085828 1
+mj12bot 2 25735 20101228075333 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 46 14760 0 0
+png 19 7911 0 0
+html 99 3220641 0 0
+jpg 547 3079497 0 0
+pl 3 75954 0 0
+gif 1102 3861425 0 0
+swf 42 12776211 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 5
+winlong 47
+winxp 1432
+winnt 290
+win2000 39
+Unknown 50
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 11
+msie8.0 722
+msie6.0 110
+mozilla 23
+msie7.0 146
+opera 325
+firefox3.6.6 52
+firefox3.6.12 32
+firefox3.6.10 39
+Unknown 1
+safari 133
+firefox3.6.13 275
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+- 20101228114722
+Mozilla/5.0_(en-us)_AppleWebKit/525.13_(KHTML,_like_Gecko;_Google_Wireless_Transcoder)_Version/3.1_Safari/525.13 20101231002004
+Mozilla/4.0_(compatible;) 20101228094713
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+- 20101228114722
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 19 47
+From1 0 0
+From2 28 28
+From3 3 3
+From4 52 1780
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 6 6
+yandex 22 22
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://go.mail.ru/search 1 1
+http://bw.pronto.ru 1 1
+http://skidkadv.ru/katalog-predpriyatii/12-dveri-zamki-mejkomnatnye-peregorodki/119-qq 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 20
+%ea%e0%f7%e5%f1%f2%e2%ee+%f3%f1%f2%e0%ed%ee%e2%ea%e8+%e4%e2%e5%f0%e8+%f5%e0%e1%e0%f0%ee%e2%f1%ea 4
+%e4%e2%e5%f0%e8 3
+%d1%83%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%ba%d0%b0+%d0%bc%d0%b5%d0%b6%d0%ba%d0%be%d0%bc%d0%bd%d0%b0%d1%82%d0%bd%d1%8b%d1%85+%d0%b4%d0%b2%d0%b5%d1%80%d0%b5%d0%b9 2
+%f1%f2%e0%eb%fc%ed%fb%e5+%e4%e2%e5%f0%e8 2
+%ea%ee%ec%ec%e5%f0%f7%e5%f1%ea%ee%e5+%ef%f0%e5%e4%eb%ee%e6%e5%ed%e8%e5 2
+%d0%b4%d0%b2%d0%b5%d1%80%d0%b8+%d1%85%d0%b0%d0%b1%d0%b0%d1%80%d0%be%d0%b2%d1%81%d0%ba 1
+%d0%b2%d1%85%d0%be%d0%b4%d0%bd%d1%8b%d0%b5+%d0%b4%d0%b2%d0%b5%d1%80%d0%b8+%d1%85%d0%b0%d0%b1%d0%b0%d1%80%d0%be%d0%b2%d1%81%d0%ba 1
+idv.ru 1
+www.dveridv.ru 1
+%d0%b7%d0%b0%d0%bc%d0%be%d0%ba+%d0%b4%d0%bb%d1%8f+%d0%ba%d0%b8%d1%82%d0%b0%d0%b9%d1%81%d0%ba%d0%be%d0%b9+%d0%b4%d0%b2%d0%b5%d1%80%d0%b8 1
+dveridv.ru 1
+%d0%b2%d1%85%d0%be%d0%b4%d0%bd%d1%8b%d0%b5+%d0%b4%d0%b2%d0%b5%d1%80%d0%b8+%d1%85%d0%b0%d0%b1%d0%b0%d1%80%d0%be%d0%b2%d1%81%d0%ba+%d0%bd%d0%b0+%d0%bf%d1%80%d0%be%d1%81%d0%bf%d0%b5%d1%80%d0%ba%d0%b5 1
+%d0%ba%d0%be%d0%bc%d0%bc%d0%b5%d1%80%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b5+%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5+%d0%bd%d0%b0+%d0%b4%d0%b2%d0%b5%d1%80%d0%b8 1
+%d1%81%d1%82%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f+%d0%b4%d0%b2%d0%b5%d1%80%d1%8c+sbn-8035 1
+%e4%e2%e5%f0%e8+%f5%e0%e1%e0%f0%ee%e2%f1%ea 1
+%d0%b4%d0%b2%d0%b5%d1%80%d0%b8+%d1%85%d0%b0%d0%b1%d0%b0%d1%80%d0%be%d0%b2%d1%81%d0%ba+%d0%ba%d0%b0%d1%82%d0%b0%d0%bb%d0%be%d0%b3 1
+%d0%b4%d0%b2%d0%b5%d1%80%d0%b8+%d1%85%d0%b0%d0%b1%d0%b0%d1%80%d0%be%d0%b2%d1%81%d0%ba+%d1%81%d0%b0%d0%b9%d1%82 1
+%d0%b4%d0%b2%d0%b5%d1%80%d1%8c+%d0%b2%d1%85%d0%be%d0%b4%d0%bd%d0%b0%d1%8f 1
+%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%bb%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b5+%d0%b4%d0%b2%d0%b5%d1%80%d0%b8+%d1%8d%d0%ba%d0%be%d0%bd%d0%be%d0%bc+%d0%ba%d0%bb%d0%b0%d1%81%d1%81%d0%b0+%d1%86%d0%b5%d0%bd%d0%b0+%d0%a5%d0%b0%d0%b1%d0%b0%d1%80%d0%be%d0%b2%d1%81%d0%ba 1
+%d0%b4%d0%b2%d0%b5%d1%80%d0%b8+%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%bb%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b5+%d0%b2%d1%85%d0%be%d0%b4%d0%bd%d1%8b%d0%b5 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 34
+%e4%e2%e5%f0%e8 10
+%d0%b4%d0%b2%d0%b5%d1%80%d0%b8 9
+%d1%85%d0%b0%d0%b1%d0%b0%d1%80%d0%be%d0%b2%d1%81%d0%ba 5
+%f5%e0%e1%e0%f0%ee%e2%f1%ea 5
+%ea%e0%f7%e5%f1%f2%e2%ee 4
+%f3%f1%f2%e0%ed%ee%e2%ea%e8 4
+%d0%b2%d1%85%d0%be%d0%b4%d0%bd%d1%8b%d0%b5 3
+%ef%f0%e5%e4%eb%ee%e6%e5%ed%e8%e5 2
+%d1%83%d1%81%d1%82%d0%b0%d0%bd%d0%be%d0%b2%d0%ba%d0%b0 2
+%f1%f2%e0%eb%fc%ed%fb%e5 2
+%d0%bf%d1%80%d0%b5%d0%b4%d0%bb%d0%be%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5 1
+idv.ru 1
+%d1%81%d1%82%d0%b0%d0%bb%d1%8c%d0%bd%d0%b0%d1%8f 1
+%d0%b7%d0%b0%d0%bc%d0%be%d0%ba 1
+%ea%ee%ec%ec%e5%f0%f7%e5%f1%ea%ee%e5 2
+%d0%ba%d0%be%d0%bc%d0%bc%d0%b5%d1%80%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b5 1
+%d0%ba%d0%bb%d0%b0%d1%81%d1%81%d0%b0 1
+%d1%8d%d0%ba%d0%be%d0%bd%d0%be%d0%bc 1
+%d0%bc%d0%b5%d1%82%d0%b0%d0%bb%d0%bb%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b5 2
+%d1%86%d0%b5%d0%bd%d0%b0 1
+sbn-8035 1
+%d0%b2%d1%85%d0%be%d0%b4%d0%bd%d0%b0%d1%8f 1
+www.dveridv.ru 1
+%d0%bd%d0%b0 2
+%d0%b4%d0%b2%d0%b5%d1%80%d1%8c 2
+dveridv.ru 1
+%d0%ba%d0%b0%d1%82%d0%b0%d0%bb%d0%be%d0%b3 1
+%d0%b4%d0%b2%d0%b5%d1%80%d0%b5%d0%b9 2
+%d0%a5%d0%b0%d0%b1%d0%b0%d1%80%d0%be%d0%b2%d1%81%d0%ba 1
+%d0%bc%d0%b5%d0%b6%d0%ba%d0%be%d0%bc%d0%bd%d0%b0%d1%82%d0%bd%d1%8b%d1%85 2
+%d0%b4%d0%bb%d1%8f 1
+%d0%bf%d1%80%d0%be%d1%81%d0%bf%d0%b5%d1%80%d0%ba%d0%b5 1
+%d1%81%d0%b0%d0%b9%d1%82 1
+%d0%ba%d0%b8%d1%82%d0%b0%d0%b9%d1%81%d0%ba%d0%be%d0%b9 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 1 533
+206 8 1904917
+404 6 1242
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 2
+/index.php 1 -
+/index.htm 5 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 167
+87.225.62.213 8 139 824102 20101229070913
+80.237.82.214 7 111 1304654 20101228103749
+94.25.118.206 6 59 812331 20101230041601
+188.93.132.62 5 60 745533 20101228104037
+85.15.79.113 4 56 665933 20101228153703
+85.90.221.165 4 58 730180 20101230163409
+80.83.239.22 4 60 1764461 20101228055116
+95.70.2.10 4 73 631548 20101229150347
+188.93.132.245 4 146 326492 20101229112658
+92.37.231.17 4 51 686869 20101228070223
+93.80.84.182 0 1 1536 
+95.24.92.21 0 1 2627 
+193.164.133.50 1 1 25295 20101228114722
+93.80.23.180 0 1 2097 
+93.80.169.207 0 1 3555 
+95.25.141.103 0 1 2627 
+95.27.239.2 0 1 16816 
+74.125.16.66 2 26 213825 20101231002004
+93.80.64.173 0 2 24923 
+95.27.21.140 0 1 369 
+95.220.182.64 0 10 386105 
+95.28.123.244 0 1 345303 
+95.24.36.99 1 3 368858 20101228161258
+95.26.169.121 0 2 13612 
+95.26.56.5 1 1 21083 20101229023237
+95.25.52.65 0 1 4598 
+95.28.18.132 0 1 4095 
+89.178.193.165 0 1 1536 
+95.27.177.147 0 3 26707 
+95.25.11.112 0 3 28568 
+93.80.23.61 0 1 345303 
+95.25.245.80 0 1 3641 
+89.178.143.84 0 2 6357 
+95.26.205.61 1 1 21083 20101228061146
+93.80.229.80 0 2 4226 
+109.197.20.211 1 47 591811 20101228083808
+95.25.7.79 0 2 5678 
+95.25.30.145 1 5 63495 20101227164345
+95.27.110.19 0 2 3703 
+93.80.229.127 0 1 345303 
+95.167.117.130 3 48 337846 20101229094947
+94.125.49.191 1 39 544952 20101228055947
+95.25.93.96 0 1 2472 
+95.26.170.235 0 2 4788 
+81.88.216.104 1 1 25295 20101229013859
+46.38.9.3 3 55 677428 20101231113655
+95.25.116.167 0 1 2194 
+95.25.247.99 0 5 38075 
+95.27.255.201 0 2 8378 
+95.25.30.52 0 1 2241 
+95.25.86.222 0 2 4588 
+89.178.169.43 1 1 56826 20101229011631
+93.80.143.171 0 1 2241 
+95.25.11.64 1 1 25630 20101230180548
+95.25.182.128 0 1 2216 
+199.19.249.196 1 1 25295 20101228094712
+89.178.193.12 0 1 369 
+95.24.103.106 0 2 3024 
+95.26.216.224 0 1 16816 
+95.28.53.199 0 8 19996 
+95.25.30.238 0 3 11484 
+178.178.34.139 2 35 539494 20101229134600
+95.25.141.13 0 1 1613 
+93.80.227.208 0 1 1676 
+89.178.141.167 1 4 64145 20101228125007
+93.80.143.136 0 1 2627 
+95.26.62.91 0 1 369 
+93.80.143.239 0 3 369679 
+95.26.11.10 0 1 2235 
+95.28.18.222 0 2 4596 
+95.28.127.91 0 1 369 
+95.27.84.71 0 1 345303 
+95.220.180.227 0 5 15570 
+95.25.52.72 0 2 19345 
+212.176.54.138 3 55 677428 20101228093857
+95.26.145.103 0 2 4533 
+95.26.225.76 0 1 2235 
+195.210.174.2 1 39 544952 20101230163125
+93.80.211.73 0 1 2159 
+93.80.37.149 0 1 2627 
+95.28.127.175 0 1 43 
+93.80.229.149 0 1 3641 
+95.24.56.237 0 1 3940 
+93.80.80.92 0 1 2501 
+89.178.185.232 0 2 5083 
+95.27.80.214 0 1 1536 
+83.234.62.254 1 55 616420 20101228131543
+93.80.209.50 0 3 5455 
+89.178.135.182 0 1 2472 
+89.178.205.21 0 1 2708 
+93.80.211.181 0 1 2159 
+93.80.211.100 0 1 2521 
+95.25.51.55 0 1 369 
+95.27.217.220 0 1 3645 
+93.80.209.195 0 4 8718 
+95.25.171.190 0 1 369 
+89.178.141.223 1 1 25295 20101229132322
+93.80.19.52 0 1 2094 
+95.25.221.30 0 2 2568 
+89.178.135.150 0 1 4438 
+95.25.240.33 0 1 1613 
+95.24.97.85 0 1 1676 
+95.25.144.204 0 3 14366 
+95.25.240.40 0 1 369 
+95.25.169.214 0 5 12941 
+93.80.229.168 1 1 56826 20101230161244
+95.25.57.186 0 3 7980 
+93.80.209.150 0 1 2032 
+46.8.145.105 1 46 594697 20101228191520
+95.28.95.115 0 2 1225 
+95.25.127.183 0 2 4623 
+89.178.98.77 0 2 1515 
+89.178.133.140 0 1 2116 
+95.25.221.76 0 1 2521 
+93.80.14.78 0 1 4095 
+93.80.229.155 0 1 1676 
+89.178.133.175 0 1 2691 
+93.80.229.33 0 1 2216 
+93.80.65.138 0 2 23829 
+95.25.30.230 0 5 26229 
+93.80.169.239 1 2 60286 20101230184731
+95.25.250.39 0 1 369 
+95.25.33.213 0 1 345303 
+93.80.22.237 0 1 5796 
+95.220.133.22 1 2 25673 20101230211202
+95.27.171.146 0 1 2529 
+93.80.70.65 0 3 5236 
+95.24.222.50 0 3 4992 
+95.25.93.92 0 4 20357 
+95.25.222.193 0 4 10155 
+95.27.253.6 0 2 5839 
+89.178.110.119 0 2 3829 
+89.178.213.216 0 2 13612 
+95.24.222.218 0 3 4052 
+95.25.59.112 0 1 369 
+93.80.15.211 0 1 1182 
+89.178.22.108 0 3 13912 
+95.28.33.252 1 7 59085 20101227173951
+95.27.253.240 0 2 4931 
+95.24.98.10 0 1 5229 
+95.26.138.136 0 5 10324 
+93.80.211.81 0 1 2067 
+95.26.198.75 0 1 18954 
+95.27.1.76 0 2 22414 
+95.25.11.252 0 1 2691 
+95.26.11.94 0 1 2032 
+95.70.13.207 3 23 84012 20101227162140
+89.178.96.234 0 4 34040 
+217.118.64.59 2 48 612894 20101228144240
+95.28.95.139 0 1 2116 
+95.24.36.178 0 1 2097 
+2.95.61.60 3 49 648366 20101230145137
+89.178.101.71 0 3 8209 
+95.25.106.104 0 1 3645 
+93.80.208.211 0 4 368106 
+89.178.110.151 0 2 16184 
+95.25.35.220 0 1 345303 
+95.143.8.178 1 40 263199 20101228091818
+95.24.92.166 0 1 2521 
+95.27.252.156 0 1 2521 
+95.24.94.171 0 3 348955 
+85.114.85.194 2 41 590048 20101228094727
+95.27.69.149 0 1 22215 
+95.26.33.197 0 2 21148 
+46.8.146.182 4 87 728552 20101229054928
+188.128.13.118 4 52 684589 20101230131624
+95.28.95.212 0 1 345303 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20101227 5 104 1162410 3
+20101228 44 872 11393486 20
+20101229 26 458 4310625 12
+20101230 22 343 5278625 9
+20101231 5 81 891253 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 3
+30s-2mn 7
+15mn-30mn 1
+2mn-5mn 4
+0s-30s 29
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 12
+/ 25 556490 21 8
+/catalog.html 20 1079694 10 12
+/door_russia.html 15 496608 0 6
+/about.html 11 210830 8 5
+/door_china.html 7 240415 0 1
+/catalog_optovikam.html 7 284965 2 7
+/door_fire.html 4 116860 0 0
+/kp.html 4 102520 4 2
+/awstats/cgi-bin/awstats.pl 3 75954 1 1
+/contact.html 3 67392 0 2
+/door_nestandart.html 2 37308 0 1
+/kiv.html 1 27559 0 1
+END_SIDER
